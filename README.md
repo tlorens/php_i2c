@@ -2,7 +2,7 @@
 PHP I2C (linux) Bindings and misc PHP classes 
 
 ```phpize
-configure --with-i2c
+./configure --with-i2c
 make
 make install
 ```
